@@ -6,7 +6,6 @@
 	<!-- vendor files -->
   <project name="AICP/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="p9.0" />
 
-  <project name="android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" remote="omnirom" revision="android-9.0" />
   <project name="android_vendor_nxp-nfc_interfaces_opensource_nfc" path="vendor/nxp-nfc/interfaces/opensource/nfc" remote="omnirom" revision="android-9.0" />
   <project name="android_vendor_qcom_opensource_dpm" path="vendor/qcom/opensource/dpm" remote="omnirom" revision="android-9.0" />
   <project name="android_vendor_qcom_opensource_bluetooth" path="vendor/qcom/opensource/bluetooth" remote="omnirom" revision="android-9.0" />
