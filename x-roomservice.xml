@@ -14,11 +14,11 @@
   <project name="DonkeyCoyote/proprietary_vendor_qcom_binaries" path="vendor/qcom" remote="github" revision="android-8.0" />
 
   <!-- Devices -->
-
+  <project name="Raschad/device_sony_honami" path="device/sony/honami" remote="github" revision="omni-pie" />
 
   <!-- Boards -->
   <project name="android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="omnirom" revision="android-9.0" />
-  <project name="AICP/device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="p9.0" />
+  <project name="Raschad/device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="p9.0" />
   <project name="CarbonBeta/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cr-7.0" />
 
   <!-- Kernels -->
